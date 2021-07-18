@@ -192,8 +192,8 @@ div[menu] {
   
   background-color: #001931;
   position: fixed;
-  left: 10%;
-  top: 10%;
+  left: 50%;
+  top: 50%;
   width: 75%;
   height: 75%;
   border-radius: 8px;
@@ -201,6 +201,7 @@ div[menu] {
   padding: 20px;
   display: block;
   overflow: scroll;
+  transform: translate(-50%, -50%);
   
 }
 div[arial] {
