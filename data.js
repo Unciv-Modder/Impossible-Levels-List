@@ -8,8 +8,8 @@ var lang = ["ENG", 0]
   }
   , welcomeText = {
     
-    ENG: "Information stolen from the ILL. Unfinished"
-    , ESP: "informacion robada del ILL. No Terminada"
+    ENG: "Information stolen from the ILL. Unfinished. Contact me if something's wrong (look in credits)"
+    , ESP: "informacion robada del ILL. No Terminada. Contáctame si algo anda mal (mira en créditos)"
     
   }
   , menu = {
@@ -77,15 +77,15 @@ If a level is found to be in violation of any of the List’s rules, it will be 
     
     rulesESP: `<div arial>En desarrollo</div><br>`,
     
-    creditsENG: `<div big gold>Credits</div><br><div arial>Programmer: <color lime>nurdPI</color></div>
+    creditsENG: `<div big gold>Credits</div><br><div arial>Programmer: <color lime>nurdPi</color <a href="https://www.youtube.com/channel/UC_1zJqJ7mQajwhilzLdt3FQ/about"><color blue>(see more)</color></a></div>
   
   <div arial>Past 100s: <color lime>Knali2001</color> <a href="https://youtu.be/6MW5sdqrttk"><color blue >(see more)</color></a></div>
   
   <div arial>Impossible Levels List: <a href="https://docs.google.com/document/d/1TNNkuLVUE4kUv6bCnh-RuXroLky8yyL-HdWJoYNbRlI/edit"><color blue >here</color></a></div>
   `
-    , creditsESP: `<div big gold>Credits</div><br><div arial>Programador: <color lime>UnfunnyCreator</color></div>
+    , creditsESP: `<div big gold>Credits</div><br><div arial>Programador: <color lime>nurdPi</color><a href="https://www.youtube.com/channel/UC_1zJqJ7mQajwhilzLdt3FQ/about"><color blue>(ver mas)</color></a></div>
   
-  <div arial>Past 100s: <color lime>Knali2001</color> <a href="https://youtu.be/6MW5sdqrttk"><color blue >(see more)</color></a></div>
+  <div arial>Past 100s: <color lime>Knali2001</color> <a href="https://youtu.be/6MW5sdqrttk"><color blue >(ver mas)</color></a></div>
   
   <div arial>Lista de Niveles Imposibles: <a href="https://docs.google.com/document/d/1TNNkuLVUE4kUv6bCnh-RuXroLky8yyL-HdWJoYNbRlI/edit"><color blue >aqui</color></a></div>
   `
