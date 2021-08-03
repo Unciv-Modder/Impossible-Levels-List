@@ -77,7 +77,7 @@ If a level is found to be in violation of any of the List’s rules, it will be 
     
     rulesESP: `<div arial>En desarrollo</div><br>`,
     
-    creditsENG: `<div big gold>Credits</div><br><div arial>Programmer: <color lime>UnfunnyCreator</color></div>
+    creditsENG: `<div big gold>Credits</div><br><div arial>Programmer: <color lime>nurdPI</color></div>
   
   <div arial>Past 100s: <color lime>Knali2001</color> <a href="https://youtu.be/6MW5sdqrttk"><color blue >(see more)</color></a></div>
   
@@ -1722,7 +1722,7 @@ var Alist = [
             }
       
       , {
-        name: 'Spacial Instability'
+        name: 'Spatial Instability'
         , byENG: 'by RezerdPrime'
         , byESP: 'de RezerdPrime'
         , link: ''
