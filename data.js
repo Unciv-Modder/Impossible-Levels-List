@@ -138,7 +138,7 @@ var Alist = [
         name: "Schafs II"
         , byENG: "by Ewe23 and more"
         , byESP: "de Ewe23 y mas"
-        , link: "https://youtu.be/6ExHe3MO6dE"
+        , link: "https://www.youtube.com/watch?v=GSkxE005Lyk"
         , id: ''
         , ratingENG: 'Not Rated'
         , ratingESP: 'No Calificado'
