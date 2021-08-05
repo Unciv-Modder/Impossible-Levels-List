@@ -181,7 +181,7 @@ var Alist = [
         name: "joke submission"
         , byENG: "by maxfs and Uploaded by 043"
         , byESP: "de maxfs y Subido por 043"
-        , link: "https://youtu.be/yMyZxSNTBJE"
+        , link: "https://www.youtube.com/watch?v=Dpqx2ceBnr8"
         , id: 67854544
         , ratingENG: 'Not Rated'
         , ratingESP: 'No Calificado'
@@ -1597,7 +1597,7 @@ var Alist = [
       
             
       , {
-        name: 'Solid Clubstep '
+        name: 'Solid Clubstep'
         , byENG: 'by CryptiaN, Uploaded by Xane88\n'
         , byESP: 'de CryptiaN, Subido por Xane88\n'
         , link: ''
@@ -1613,7 +1613,7 @@ var Alist = [
       
             
       , {
-        name: 'Silent AcropoliX '
+        name: 'Silent AcropoliX'
         , byENG: 'by danmaster007\n'
         , byESP: 'de danmaster007\n'
         , link: ''
@@ -1629,7 +1629,7 @@ var Alist = [
       
             
       , {
-        name: 'Omminous Clouds '
+        name: 'Omminous Clouds'
         , byENG: 'by LunarOmega238, Uploaded by TomScott\n'
         , byESP: 'de LunarOmega238, Subido por TomScott\n'
         , link: ''
@@ -1645,7 +1645,7 @@ var Alist = [
       
             
       , {
-        name: 'Time Gear '
+        name: 'Time Gear'
         , byENG: 'by AuraXalaiv\n'
         , byESP: 'de AuraXalaiv\n'
         , link: ''
@@ -1677,7 +1677,7 @@ var Alist = [
       
             
       , {
-        name: 'Chaoz Realm '
+        name: 'Chaoz Realm'
         , byENG: 'by Nimki  [Unreleased]\n'
         , byESP: 'de Nimki  \n'
         , link: ''
@@ -1693,7 +1693,7 @@ var Alist = [
       
             
       , {
-        name: 'Old Death Corridor '
+        name: 'Old Death Corridor'
         , byENG: 'by KaotikJumper and more, Uploaded by RefractionZero \n'
         , byESP: 'de KaotikJumper y mas, Subido por RefractionZero \n'
         , link: ''
@@ -1784,7 +1784,7 @@ var Alist = [
     
     },
   
-  
+  // PAST TOP 1s
   
   {
     
